@@ -27,6 +27,13 @@ Accordingly different use-scenarios seem to be relevant for me. But that could a
 
 I'll have to try it out: https://github.com/ajstanley/TEI_to_RDF
 
+Some bibliography:
+Ciotti, Fabio. „A Formal Ontology for the Text Encoding Initiative“. Umanistica Digitale 2, Nr. 3 (18. November 2018). https://doi.org/10.6092/issn.2532-8816/8174.
+Ciotti, Fabio, Marilena Daquino, und Francesca Tomasi. „Text Encoding Initiative Semantic Modeling. A Conceptual Workflow Proposal“. In Digital Libraries on the Move, herausgegeben von Diego Calvanese, Dario De Nart, und Carlo Tasso, 48–60. Communications in Computer and Information Science. Cham: Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-41938-1_5.
+Ciotti, Fabio, Maurizio Lana, und Francesca Tomasi. „TEI, Ontologies, Linked Open Data: Geolat and Beyond“. Journal of the Text Encoding Initiative, Nr. Issue 8 (28. Dezember 2014). https://doi.org/10.4000/jtei.1365.
+Ciotti, Fabio, und Francesca Tomasi. „Formal Ontologies, Linked Data, and TEI Semantics“. Journal of the Text Encoding Initiative, Nr. Issue 9 (8. September 2016). https://doi.org/10.4000/jtei.1480.
+Lana, Maurizio, Fabio Ciotti, und Francesca Tomasi. „Dialogue and Linking between TEI and Other Semantic Models“, 2013. https://www.academia.edu/27306714/Dialogue_and_linking_between_TEI_and_other_semantic_models.
+
 ### Scenario 2: Already deep-structured elements are transformed to RDF
 
 #### t:biblFull SZD-project.
